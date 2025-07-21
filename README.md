@@ -23,7 +23,7 @@ A React Native mobile application featuring a 3D AI agent that uses Retrieval-Au
 
 1. Clone and navigate to the project:
 ```bash
-cd Mobile3DAIAgent
+cd Mobile3DAIAgent_RAG
 ```
 
 2. Install dependencies:
@@ -46,7 +46,7 @@ npm start
 ## Project Structure
 
 ```
-Mobile3DAIAgent/
+Mobile3DAIAgent_RAG/
 ├── components/
 │   ├── Agent3D.tsx          # 3D agent with animations
 │   ├── ChatInterface.tsx    # Chat UI component
